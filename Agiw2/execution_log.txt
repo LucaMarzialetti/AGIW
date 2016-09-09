@@ -1,0 +1,1265 @@
+[Main] - Launching Pool
+[SourceParser] - Runing
+[Main] - Terminated
+[ExtractorMaster] - Runing
+[JsonWriter] - Runing
+[SourceParser]-push: 5401-Laptops / Notebooks
+[SourceParser]-push: 5402-Managed Switches
+[SourceParser]-push: 5403-Modems
+[SourceParser]-push: 5404-Portable Audio
+[SourceParser]-push: 5405-Racks and Components
+[SourceParser]-push: 5406-Television and Home Entertainment
+[SourceParser]-push: 5407-Wireless Access Points
+[SourceParser]-push: 5408-Japanese Exclusives
+[SourceParser]-push: 5409-Browse All Computing & Office
+[SourceParser]-push: 5410-Browse All Garden & DIY
+[SourceParser]-push: 5411-Dental/Oral Care
+[SourceParser]-push: 5412-Fax Machines
+[SourceParser]-push: 5413-Hair Stylers, Curling Tongs & Straighteners
+[SourceParser]-push: 5414-Hairdryers
+[SourceParser]-push: 5415-Home Telephones
+[SourceParser]-push: 5416-Projectors
+[SourceParser]-push: 5417-Washer Dryers
+[SourceParser]-push: 5418-notebook
+[SourceParser]-push: 5419-Arts & Crafts
+[SourceParser]-push: 5420-Baby
+[SourceParser]-push: 5421-Bestsellers
+[SourceParser]-push: 5422-Lifestyle
+[SourceParser]-push: 5423-Toys
+[SourceParser]-push: 5424-cutlery
+[SourceParser]-push: 5425-Abdominal Equipment
+[SourceParser]-push: 5426-Adirondack Chairs
+[SourceParser]-push: 5427-Air Drills & Drill/Drivers
+[SourceParser]-push: 5428-Allergies & Sinus
+[SourceParser]-push: 5429-Android Brain & Puzzle Games Apps
+[SourceParser]-push: 5430-Android Cards & Casino Games Apps
+[SourceParser]-push: 5431-Android Casual Games Apps
+[SourceParser]-push: 5432-Android Finance Apps
+[SourceParser]-push: 5433-Android Tools Apps
+[SourceParser]-push: 5434-Android Transportation Apps
+[SourceParser]-push: 5435-Answering Machines
+[SourceParser]-push: 5436-Antennas
+[SourceParser]-push: 5437-Aquariums & Aquarium Stands
+[SourceParser]-push: 5438-Art Easels
+[SourceParser]-push: 5439-Audio Cards
+[SourceParser]-push: 5440-Belay & Rappel Devices
+[SourceParser]-push: 5441-Bicycle Accessories
+[SourceParser]-push: 5442-Bicycle Gear
+[SourceParser]-push: 5443-Bullet Proof Vests
+[SourceParser]-push: 5444-Calculators
+[SourceParser]-push: 5445-Can Openers
+[SourceParser]-push: 5446-Cassette Adapters
+[SourceParser]-push: 5447-Cat Toys
+[SourceParser]-push: 5448-Chocolate Drinks
+[SourceParser]-push: 5449-Coat & Hat Racks
+[SourceParser]-push: 5450-Computer Storage Cables
+[SourceParser]-push: 5451-Computer Utilities & Maintenance
+[SourceParser]-push: 5452-Condiment Dispensers
+[SourceParser]-push: 5453-Crock Pots & Slow Cookers
+[ExtractorMaster]-pop: 5401-Laptops / Notebooks
+[SourceParser]-push: 5454-Cross-Country Skiing
+[SourceParser]-push: 5455-DVD & Blu-Ray Players
+[SourceParser]-push: 5456-DVD & Blu-ray Recorders
+[SourceParser]-push: 5457-Dental Hygiene
+[SourceParser]-push: 5458-Diet Pills
+[SourceParser]-push: 5459-Display Boards
+[SourceParser]-push: 5460-Dive Computers
+[SourceParser]-push: 5461-Drains
+[SourceParser]-push: 5462-Drill Presses
+[SourceParser]-push: 5463-Ecommerce
+[SourceParser]-push: 5464-Electric Knives
+[SourceParser]-push: 5465-Electronic Dictionaries & Translators
+[SourceParser]-push: 5466-Facebook Health Apps
+[SourceParser]-push: 5467-Facebook Media Sharing Apps
+[SourceParser]-push: 5468-Facebook Utilities Apps
+[SourceParser]-push: 5469-Fire Extinguishers
+[SourceParser]-push: 5470-Fish Food
+[SourceParser]-push: 5471-Fishing Rods & Reels
+[SourceParser]-push: 5472-Floral Design
+[SourceParser]-push: 5473-Folding Fans
+[SourceParser]-push: 5474-Food Peelers
+[SourceParser]-push: 5475-Food Slicers
+[SourceParser]-push: 5476-Football Training Equipment
+[SourceParser]-push: 5477-Freeze-Dried Food
+[SourceParser]-push: 5478-Game Boy Color Games
+[SourceParser]-push: 5479-Gauges
+[SourceParser]-push: 5480-Glass Crafts
+[SourceParser]-push: 5481-Golf Training Aids
+[SourceParser]-push: 5482-Grains, Rice & Cereals
+[SourceParser]-push: 5483-Greenhouses
+[SourceParser]-push: 5484-Grills & Smokers
+[SourceParser]-push: 5485-Hard Drive Accessories
+[SourceParser]-push: 5486-Hardhats
+[SourceParser]-push: 5487-Heaters
+[SourceParser]-push: 5488-Home Automation
+[SourceParser]-push: 5489-Horse Grooming
+[SourceParser]-push: 5490-Hydration Packs & Bags
+[SourceParser]-push: 5491-Industrial Cabinets & Shelving
+[SourceParser]-push: 5492-Juicers
+[SourceParser]-push: 5493-KVM Switches
+[SourceParser]-push: 5494-Kitchen Knives
+[SourceParser]-push: 5495-Ladder Golf
+[SourceParser]-push: 5496-Light Switches & Dimmers
+[SourceParser]-push: 5497-Line of Credit
+[SourceParser]-push: 5498-Living Room Tables
+[SourceParser]-push: 5499-Lunch Boxes & Totes
+[SourceParser]-push: 5500-MP3 Player Accessories
+[SourceParser]-push: 5501-Mac Desktops
+[SourceParser]-push: 5502-Magic & Novelties
+[SourceParser]-push: 5503-Massage Tables
+[SourceParser]-push: 5504-Media Converters
+[SourceParser]-push: 5505-Medical Apparel
+[SourceParser]-push: 5506-Megaphones
+[SourceParser]-push: 5507-Mosaics
+[SourceParser]-push: 5508-Mosquito Nets
+[SourceParser]-push: 5509-Mouthguards
+[SourceParser]-push: 5510-Multitrack Recorders
+[SourceParser]-push: 5511-Mutual Funds
+[SourceParser]-push: 5512-Nebulizers & Supplies
+[SourceParser]-push: 5513-Neckties
+[SourceParser]-push: 5514-Netbooks
+[SourceParser]-push: 5515-Network Security & Firewall Devices
+[SourceParser]-push: 5516-Nintendo Entertainment System Games
+[SourceParser]-push: 5517-Nintendo Wii Games
+[SourceParser]-push: 5518-Other Network Devices
+[SourceParser]-push: 5519-Outdoor Benches
+[SourceParser]-push: 5520-Outdoor Tables
+[SourceParser]-push: 5521-Pagers
+[SourceParser]-push: 5522-Pedometers
+[SourceParser]-push: 5523-Photo Albums & Storage
+[SourceParser]-push: 5524-Pipe Cutters
+[SourceParser]-push: 5525-Pipe Locators
+[SourceParser]-push: 5526-Pipes, Fittings & Valves
+[SourceParser]-push: 5527-Plasma Cutters
+[SourceParser]-push: 5528-Poker & Game Tables
+[SourceParser]-push: 5529-Power Enclosures
+[SourceParser]-push: 5530-Prepared Foods
+[SourceParser]-push: 5531-Probes & Finders
+[SourceParser]-push: 5532-Projection Screens
+[SourceParser]-push: 5533-Racquet Stringing Machines
+[SourceParser]-push: 5534-Rebar Locators
+[SourceParser]-push: 5535-Recliners
+[SourceParser]-push: 5536-Recycling & Waste Containers
+[SourceParser]-push: 5537-Remote Access Servers
+[SourceParser]-push: 5538-Remote Deposit
+[SourceParser]-push: 5539-Roasting Pans
+[SourceParser]-push: 5540-Seasonal & Holiday Decorations
+[SourceParser]-push: 5541-Security Lights
+[SourceParser]-push: 5542-Security System Sensors
+[SourceParser]-push: 5543-Seeds
+[SourceParser]-push: 5544-Semiconductors
+[SourceParser]-push: 5545-Shavers
+[SourceParser]-push: 5546-Sleep Masks
+[SourceParser]-push: 5547-Small Animal Habitats & Cages
+[SourceParser]-push: 5548-Specialty Kitchen Appliances
+[SourceParser]-push: 5549-Specialty Pots & Pans
+[SourceParser]-push: 5550-Spotting Scopes
+[SourceParser]-push: 5551-Squash Equipment
+[SourceParser]-push: 5552-Steamer Baskets
+[SourceParser]-push: 5553-Stenciling, Die Cutting & Embossing
+[SourceParser]-push: 5554-Storage Hooks & Racks
+[SourceParser]-push: 5555-Swimming Pools
+[SourceParser]-push: 5556-Tape Drives
+[SourceParser]-push: 5557-Telephone Accessories
+[SourceParser]-push: 5558-Thermoses
+[SourceParser]-push: 5559-Thermostats
+[SourceParser]-push: 5560-Track Spikes
+[SourceParser]-push: 5561-Tracking Devices
+[SourceParser]-push: 5562-Turbografx 16 Games
+[SourceParser]-push: 5563-USB Drive Duplicators
+[SourceParser]-push: 5564-Video Conferencing
+[SourceParser]-push: 5565-Video Game Consoles
+[SourceParser]-push: 5566-Wall Plates & Sockets
+[SourceParser]-push: 5567-Water Heaters
+[SourceParser]-push: 5568-Water Softeners
+[SourceParser]-push: 5569-Websites
+[SourceParser]-push: 5570-Welding Equipment
+[SourceParser]-push: 5571-Well Supplies
+[SlaveExtractor] - 5401: Fetching & Validating
+[SourceParser]-push: 5572-Wheelbarrows
+[SourceParser]-push: 5573-World Globes
+[SourceParser]-push: 5574-XBox (original) Games
+[SourceParser]-push: 5575-iPhone Medical Apps
+[SourceParser]-push: 5576-iPhone Music Apps
+[SourceParser]-push: 5577-iPhone News Apps
+[SourceParser]-push: 5578-iPhone Sports Apps
+[SourceParser]-push: 5579-Digital SLR Cameras
+[SourceParser]-push: 5580-camera
+[SourceParser]-push: 5581-iPods & MP3 Players Accessories
+[SourceParser]-push: 5582-camera
+[SourceParser]-push: 5583-monitor
+[SourceParser]-push: 5584-| Apple Mobile
+[SourceParser]-push: 5585-| Camera Lens
+[SourceParser]-push: 5586-| Samsung Camera
+[SourceParser]-push: 5587-| Samsung Laptop
+[SourceParser]-push: 5588-| Samsung Tablets
+[SourceParser]-push: 5589-| Sony Mobile
+[SourceParser]-push: 5590-Bose
+[SourceParser]-push: 5591-Enceintes TV
+[SourceParser]-push: 5592-Machine Ã  glaÃ§ons
+[SourceParser]-push: 5593-Maison, Cuisine, Bien-être
+[SourceParser]-push: 5594-Men's Sunglasses
+[SourceParser]-push: 5595-Audio Equipment
+[SourceParser]-push: 5596-BenQ Lamps
+[SourceParser]-push: 5597-Digital Signage
+[SourceParser]-push: 5598-Displays and Digital Signage
+[SourceParser]-push: 5599-Interactive Touchscreen Displays
+[SourceParser]-push: 5600-JVC Lamps
+[SourceParser] - Poison_pill!!
+[SourceParser] - Terminated
+[ExtractorMaster]-pop: 5402-Managed Switches
+[ExtractorMaster]-pop: 5403-Modems
+[ExtractorMaster]-pop: 5404-Portable Audio
+[ExtractorMaster]-pop: 5405-Racks and Components
+[ExtractorMaster]-pop: 5406-Television and Home Entertainment
+[ExtractorMaster]-pop: 5407-Wireless Access Points
+[SlaveExtractor] - 5402: Fetching & Validating
+[SlaveExtractor] - 5403: Fetching & Validating
+[ExtractorMaster]-pop: 5408-Japanese Exclusives
+[SlaveExtractor] - 5404: Fetching & Validating
+[SlaveExtractor] - 5405: Fetching & Validating
+[SlaveExtractor] - 5406: Fetching & Validating
+[SlaveExtractor] - 5407: Fetching & Validating
+[ExtractorMaster]-pop: 5409-Browse All Computing & Office
+[SlaveExtractor] - 5408: Fetching & Validating
+[ExtractorMaster]-pop: 5410-Browse All Garden & DIY
+[SlaveExtractor] - 5409: Fetching & Validating
+[ExtractorMaster]-pop: 5411-Dental/Oral Care
+[SlaveExtractor] - 5410: Fetching & Validating
+[ExtractorMaster]-pop: 5412-Fax Machines
+[SlaveExtractor] - 5411: Fetching & Validating
+[ExtractorMaster]-pop: 5413-Hair Stylers, Curling Tongs & Straighteners
+[SlaveExtractor] - 5412: Fetching & Validating
+[ExtractorMaster]-pop: 5414-Hairdryers
+[ExtractorMaster]-pop: 5415-Home Telephones
+[SlaveExtractor] - 5413: Fetching & Validating
+[SlaveExtractor] - 5414: Fetching & Validating
+[ExtractorMaster]-pop: 5416-Projectors
+[ExtractorMaster]-pop: 5417-Washer Dryers
+[ExtractorMaster]-pop: 5418-notebook
+[ExtractorMaster]-pop: 5419-Arts & Crafts
+[SlaveExtractor] - 5415: Fetching & Validating
+[SlaveExtractor] - 5416: Fetching & Validating
+[ExtractorMaster]-pop: 5420-Baby
+[ExtractorMaster]-pop: 5421-Bestsellers
+[SlaveExtractor] - 5417: Fetching & Validating
+[SlaveExtractor] - 5418: Fetching & Validating
+[ExtractorMaster]-pop: 5422-Lifestyle
+[SlaveExtractor] - 5419: Fetching & Validating
+[ExtractorMaster]-pop: 5423-Toys
+[SlaveExtractor] - 5420: Fetching & Validating
+[ExtractorMaster]-pop: 5424-cutlery
+[SlaveExtractor] - 5421: Fetching & Validating
+[ExtractorMaster]-pop: 5425-Abdominal Equipment
+[ExtractorMaster]-pop: 5426-Adirondack Chairs
+[SlaveExtractor] - 5422: Fetching & Validating
+[ExtractorMaster]-pop: 5427-Air Drills & Drill/Drivers
+[SlaveExtractor] - 5423: Fetching & Validating
+[SlaveExtractor] - 5424: Fetching & Validating
+[ExtractorMaster]-pop: 5428-Allergies & Sinus
+[SlaveExtractor] - 5425: Fetching & Validating
+[SlaveExtractor] - 5426: Fetching & Validating
+[SlaveExtractor] - 5427: Fetching & Validating
+[ExtractorMaster]-pop: 5429-Android Brain & Puzzle Games Apps
+[SlaveExtractor] - 5428: Fetching & Validating
+[ExtractorMaster]-pop: 5430-Android Cards & Casino Games Apps
+[SlaveExtractor] - 5429: Fetching & Validating
+[ExtractorMaster]-pop: 5431-Android Casual Games Apps
+[SlaveExtractor] - 5430: Fetching & Validating
+[ExtractorMaster]-pop: 5432-Android Finance Apps
+[ExtractorMaster]-pop: 5433-Android Tools Apps
+[ExtractorMaster]-pop: 5434-Android Transportation Apps
+[ExtractorMaster]-pop: 5435-Answering Machines
+[ExtractorMaster]-pop: 5436-Antennas
+[SlaveExtractor] - 5431: Fetching & Validating
+[ExtractorMaster]-pop: 5437-Aquariums & Aquarium Stands
+[SlaveExtractor] - 5432: Fetching & Validating
+[ExtractorMaster]-pop: 5438-Art Easels
+[ExtractorMaster]-pop: 5439-Audio Cards
+[SlaveExtractor] - 5433: Fetching & Validating
+[SlaveExtractor] - 5434: Fetching & Validating
+[ExtractorMaster]-pop: 5440-Belay & Rappel Devices
+[SlaveExtractor] - 5435: Fetching & Validating
+[ExtractorMaster]-pop: 5441-Bicycle Accessories
+[SlaveExtractor] - 5436: Fetching & Validating
+[SlaveExtractor] - 5437: Fetching & Validating
+[ExtractorMaster]-pop: 5442-Bicycle Gear
+[SlaveExtractor] - 5439: Fetching & Validating
+[SlaveExtractor] - 5440: Fetching & Validating
+[ExtractorMaster]-pop: 5443-Bullet Proof Vests
+[SlaveExtractor] - 5441: Fetching & Validating
+[ExtractorMaster]-pop: 5444-Calculators
+[SlaveExtractor] - 5438: Fetching & Validating
+[ExtractorMaster]-pop: 5445-Can Openers
+[SlaveExtractor] - 5443: Fetching & Validating
+[SlaveExtractor] - 5442: Fetching & Validating
+[SlaveExtractor] - 5444: Fetching & Validating
+[ExtractorMaster]-pop: 5446-Cassette Adapters
+[SlaveExtractor] - 5445: Fetching & Validating
+[ExtractorMaster]-pop: 5447-Cat Toys
+[SlaveExtractor] - 5446: Fetching & Validating
+[ExtractorMaster]-pop: 5448-Chocolate Drinks
+[SlaveExtractor] - 5447: Fetching & Validating
+[ExtractorMaster]-pop: 5449-Coat & Hat Racks
+[SlaveExtractor] - 5448: Fetching & Validating
+[ExtractorMaster]-pop: 5450-Computer Storage Cables
+[SlaveExtractor] - 5449: Fetching & Validating
+[ExtractorMaster]-pop: 5451-Computer Utilities & Maintenance
+[SlaveExtractor] - 5450: Fetching & Validating
+[ExtractorMaster]-pop: 5452-Condiment Dispensers
+[SlaveExtractor] - 5451: Fetching & Validating
+[ExtractorMaster]-pop: 5453-Crock Pots & Slow Cookers
+[SlaveExtractor] - 5452: Fetching & Validating
+[ExtractorMaster]-pop: 5454-Cross-Country Skiing
+[SlaveExtractor] - 5453: Fetching & Validating
+[ExtractorMaster]-pop: 5455-DVD & Blu-Ray Players
+[SlaveExtractor] - 5454: Fetching & Validating
+[ExtractorMaster]-pop: 5456-DVD & Blu-ray Recorders
+[SlaveExtractor] - 5455: Fetching & Validating
+[ExtractorMaster]-pop: 5457-Dental Hygiene
+[SlaveExtractor] - 5456: Fetching & Validating
+[ExtractorMaster]-pop: 5458-Diet Pills
+[SlaveExtractor] - 5457: Fetching & Validating
+[ExtractorMaster]-pop: 5459-Display Boards
+[SlaveExtractor] - 5458: Fetching & Validating
+[ExtractorMaster]-pop: 5460-Dive Computers
+[SlaveExtractor] - 5459: Fetching & Validating
+[ExtractorMaster]-pop: 5461-Drains
+[SlaveExtractor] - 5460: Fetching & Validating
+[ExtractorMaster]-pop: 5462-Drill Presses
+[SlaveExtractor] - 5461: Fetching & Validating
+[ExtractorMaster]-pop: 5463-Ecommerce
+[SlaveExtractor] - 5462: Fetching & Validating
+[ExtractorMaster]-pop: 5464-Electric Knives
+[SlaveExtractor] - 5463: Fetching & Validating
+[ExtractorMaster]-pop: 5465-Electronic Dictionaries & Translators
+[SlaveExtractor] - 5464: Fetching & Validating
+[ExtractorMaster]-pop: 5466-Facebook Health Apps
+[SlaveExtractor] - 5465: Fetching & Validating
+[ExtractorMaster]-pop: 5467-Facebook Media Sharing Apps
+[SlaveExtractor] - 5466: Fetching & Validating
+[ExtractorMaster]-pop: 5468-Facebook Utilities Apps
+[SlaveExtractor] - 5467: Fetching & Validating
+[ExtractorMaster]-pop: 5469-Fire Extinguishers
+[SlaveExtractor] - 5468: Fetching & Validating
+[ExtractorMaster]-pop: 5470-Fish Food
+[SlaveExtractor] - 5469: Fetching & Validating
+[ExtractorMaster]-pop: 5471-Fishing Rods & Reels
+[SlaveExtractor] - 5470: Fetching & Validating
+[ExtractorMaster]-pop: 5472-Floral Design
+[SlaveExtractor] - 5471: Fetching & Validating
+[ExtractorMaster]-pop: 5473-Folding Fans
+[SlaveExtractor] - 5472: Fetching & Validating
+[ExtractorMaster]-pop: 5474-Food Peelers
+[SlaveExtractor] - 5473: Fetching & Validating
+[ExtractorMaster]-pop: 5475-Food Slicers
+[SlaveExtractor] - 5474: Fetching & Validating
+[ExtractorMaster]-pop: 5476-Football Training Equipment
+[SlaveExtractor] - 5475: Fetching & Validating
+[ExtractorMaster]-pop: 5477-Freeze-Dried Food
+[SlaveExtractor] - 5476: Fetching & Validating
+[ExtractorMaster]-pop: 5478-Game Boy Color Games
+[SlaveExtractor] - 5477: Fetching & Validating
+[ExtractorMaster]-pop: 5479-Gauges
+[SlaveExtractor] - 5478: Fetching & Validating
+[ExtractorMaster]-pop: 5480-Glass Crafts
+[SlaveExtractor] - 5479: Fetching & Validating
+[ExtractorMaster]-pop: 5481-Golf Training Aids
+[SlaveExtractor] - 5480: Fetching & Validating
+[ExtractorMaster]-pop: 5482-Grains, Rice & Cereals
+[SlaveExtractor] - 5481: Fetching & Validating
+[ExtractorMaster]-pop: 5483-Greenhouses
+[SlaveExtractor] - 5482: Fetching & Validating
+[ExtractorMaster]-pop: 5484-Grills & Smokers
+[SlaveExtractor] - 5483: Fetching & Validating
+[ExtractorMaster]-pop: 5485-Hard Drive Accessories
+[SlaveExtractor] - 5484: Fetching & Validating
+[ExtractorMaster]-pop: 5486-Hardhats
+[SlaveExtractor] - 5485: Fetching & Validating
+[ExtractorMaster]-pop: 5487-Heaters
+[SlaveExtractor] - 5486: Fetching & Validating
+[ExtractorMaster]-pop: 5488-Home Automation
+[ExtractorMaster]-pop: 5489-Horse Grooming
+[SlaveExtractor] - 5487: Fetching & Validating
+[ExtractorMaster]-pop: 5490-Hydration Packs & Bags
+[ExtractorMaster]-pop: 5491-Industrial Cabinets & Shelving
+[SlaveExtractor] - 5488: Fetching & Validating
+[ExtractorMaster]-pop: 5492-Juicers
+[SlaveExtractor] - 5489: Fetching & Validating
+[SlaveExtractor] - 5490: Fetching & Validating
+[SlaveExtractor] - 5491: Fetching & Validating
+[ExtractorMaster]-pop: 5493-KVM Switches
+[SlaveExtractor] - 5492: Fetching & Validating
+[ExtractorMaster]-pop: 5494-Kitchen Knives
+[ExtractorMaster]-pop: 5495-Ladder Golf
+[SlaveExtractor] - 5493: Fetching & Validating
+[ExtractorMaster]-pop: 5496-Light Switches & Dimmers
+[SlaveExtractor] - 5494: Fetching & Validating
+[SlaveExtractor] - 5495: Fetching & Validating
+[ExtractorMaster]-pop: 5497-Line of Credit
+[SlaveExtractor] - 5496: Fetching & Validating
+[ExtractorMaster]-pop: 5498-Living Room Tables
+[SlaveExtractor] - 5497: Fetching & Validating
+[ExtractorMaster]-pop: 5499-Lunch Boxes & Totes
+[SlaveExtractor] - 5498: Fetching & Validating
+[ExtractorMaster]-pop: 5500-MP3 Player Accessories
+[SlaveExtractor] - 5499: Fetching & Validating
+[ExtractorMaster]-pop: 5501-Mac Desktops
+[SlaveExtractor] - 5500: Fetching & Validating
+[ExtractorMaster]-pop: 5502-Magic & Novelties
+[SlaveExtractor] - 5501: Fetching & Validating
+[ExtractorMaster]-pop: 5503-Massage Tables
+[SlaveExtractor] - 5502: Fetching & Validating
+[ExtractorMaster]-pop: 5504-Media Converters
+[SlaveExtractor] - 5503: Fetching & Validating
+[ExtractorMaster]-pop: 5505-Medical Apparel
+[SlaveExtractor] - 5504: Fetching & Validating
+[ExtractorMaster]-pop: 5506-Megaphones
+[SlaveExtractor] - 5505: Fetching & Validating
+[ExtractorMaster]-pop: 5507-Mosaics
+[SlaveExtractor] - 5506: Fetching & Validating
+[ExtractorMaster]-pop: 5508-Mosquito Nets
+[SlaveExtractor] - 5507: Fetching & Validating
+[ExtractorMaster]-pop: 5509-Mouthguards
+[SlaveExtractor] - 5508: Fetching & Validating
+[ExtractorMaster]-pop: 5510-Multitrack Recorders
+[SlaveExtractor] - 5509: Fetching & Validating
+[ExtractorMaster]-pop: 5511-Mutual Funds
+[SlaveExtractor] - 5510: Fetching & Validating
+[ExtractorMaster]-pop: 5512-Nebulizers & Supplies
+[SlaveExtractor] - 5511: Fetching & Validating
+[ExtractorMaster]-pop: 5513-Neckties
+[SlaveExtractor] - 5512: Fetching & Validating
+[ExtractorMaster]-pop: 5514-Netbooks
+[SlaveExtractor] - 5513: Fetching & Validating
+[ExtractorMaster]-pop: 5515-Network Security & Firewall Devices
+[ExtractorMaster]-pop: 5516-Nintendo Entertainment System Games
+[SlaveExtractor] - 5515: Fetching & Validating
+[SlaveExtractor] - 5514: Fetching & Validating
+[ExtractorMaster]-pop: 5517-Nintendo Wii Games
+[SlaveExtractor] - 5516: Fetching & Validating
+[ExtractorMaster]-pop: 5518-Other Network Devices
+[SlaveExtractor] - 5517: Fetching & Validating
+[ExtractorMaster]-pop: 5519-Outdoor Benches
+[SlaveExtractor] - 5518: Fetching & Validating
+[ExtractorMaster]-pop: 5520-Outdoor Tables
+[SlaveExtractor] - 5519: Fetching & Validating
+[ExtractorMaster]-pop: 5521-Pagers
+[SlaveExtractor] - 5520: Fetching & Validating
+[ExtractorMaster]-pop: 5522-Pedometers
+[SlaveExtractor] - 5521: Fetching & Validating
+[ExtractorMaster]-pop: 5523-Photo Albums & Storage
+[SlaveExtractor] - 5522: Fetching & Validating
+[ExtractorMaster]-pop: 5524-Pipe Cutters
+[ExtractorMaster]-pop: 5525-Pipe Locators
+[SlaveExtractor] - 5523: Fetching & Validating
+[ExtractorMaster]-pop: 5526-Pipes, Fittings & Valves
+[SlaveExtractor] - 5524: Fetching & Validating
+[SlaveExtractor] - 5525: Fetching & Validating
+[ExtractorMaster]-pop: 5527-Plasma Cutters
+[SlaveExtractor] - 5526: Fetching & Validating
+[ExtractorMaster]-pop: 5528-Poker & Game Tables
+[SlaveExtractor] - 5527: Fetching & Validating
+[ExtractorMaster]-pop: 5529-Power Enclosures
+[SlaveExtractor] - 5528: Fetching & Validating
+[SlaveExtractor] - 5529: Fetching & Validating
+[ExtractorMaster]-pop: 5530-Prepared Foods
+[ExtractorMaster]-pop: 5531-Probes & Finders
+[SlaveExtractor] - 5530: Fetching & Validating
+[ExtractorMaster]-pop: 5532-Projection Screens
+[SlaveExtractor] - 5531: Fetching & Validating
+[ExtractorMaster]-pop: 5533-Racquet Stringing Machines
+[SlaveExtractor] - 5532: Fetching & Validating
+[ExtractorMaster]-pop: 5534-Rebar Locators
+[SlaveExtractor] - 5533: Fetching & Validating
+[ExtractorMaster]-pop: 5535-Recliners
+[SlaveExtractor] - 5534: Fetching & Validating
+[ExtractorMaster]-pop: 5536-Recycling & Waste Containers
+[SlaveExtractor] - 5535: Fetching & Validating
+[ExtractorMaster]-pop: 5537-Remote Access Servers
+[SlaveExtractor] - 5536: Fetching & Validating
+[ExtractorMaster]-pop: 5538-Remote Deposit
+[SlaveExtractor] - 5537: Fetching & Validating
+[ExtractorMaster]-pop: 5539-Roasting Pans
+[SlaveExtractor] - 5538: Fetching & Validating
+[ExtractorMaster]-pop: 5540-Seasonal & Holiday Decorations
+[SlaveExtractor] - 5539: Fetching & Validating
+[SlaveExtractor] - 5540: Fetching & Validating
+[ExtractorMaster]-pop: 5541-Security Lights
+[ExtractorMaster]-pop: 5542-Security System Sensors
+[SlaveExtractor] - 5541: Fetching & Validating
+[ExtractorMaster]-pop: 5543-Seeds
+[SlaveExtractor] - 5542: Fetching & Validating
+[ExtractorMaster]-pop: 5544-Semiconductors
+[SlaveExtractor] - 5543: Fetching & Validating
+[ExtractorMaster]-pop: 5545-Shavers
+[SlaveExtractor] - 5544: Fetching & Validating
+[ExtractorMaster]-pop: 5546-Sleep Masks
+[SlaveExtractor] - 5545: Fetching & Validating
+[ExtractorMaster]-pop: 5547-Small Animal Habitats & Cages
+[SlaveExtractor] - 5546: Fetching & Validating
+[ExtractorMaster]-pop: 5548-Specialty Kitchen Appliances
+[SlaveExtractor] - 5547: Fetching & Validating
+[ExtractorMaster]-pop: 5549-Specialty Pots & Pans
+[SlaveExtractor] - 5548: Fetching & Validating
+[ExtractorMaster]-pop: 5550-Spotting Scopes
+[SlaveExtractor] - 5549: Fetching & Validating
+[ExtractorMaster]-pop: 5551-Squash Equipment
+[SlaveExtractor] - 5550: Fetching & Validating
+[ExtractorMaster]-pop: 5552-Steamer Baskets
+[SlaveExtractor] - 5551: Fetching & Validating
+[ExtractorMaster]-pop: 5553-Stenciling, Die Cutting & Embossing
+[SlaveExtractor] - 5552: Fetching & Validating
+[ExtractorMaster]-pop: 5554-Storage Hooks & Racks
+[SlaveExtractor] - 5553: Fetching & Validating
+[ExtractorMaster]-pop: 5555-Swimming Pools
+[SlaveExtractor] - 5554: Fetching & Validating
+[ExtractorMaster]-pop: 5556-Tape Drives
+[SlaveExtractor] - 5555: Fetching & Validating
+[ExtractorMaster]-pop: 5557-Telephone Accessories
+[SlaveExtractor] - 5556: Fetching & Validating
+[ExtractorMaster]-pop: 5558-Thermoses
+[SlaveExtractor] - 5557: Fetching & Validating
+[ExtractorMaster]-pop: 5559-Thermostats
+[SlaveExtractor] - 5558: Fetching & Validating
+[ExtractorMaster]-pop: 5560-Track Spikes
+[SlaveExtractor] - 5559: Fetching & Validating
+[ExtractorMaster]-pop: 5561-Tracking Devices
+[SlaveExtractor] - 5560: Fetching & Validating
+[ExtractorMaster]-pop: 5562-Turbografx 16 Games
+[SlaveExtractor] - 5561: Fetching & Validating
+[ExtractorMaster]-pop: 5563-USB Drive Duplicators
+[SlaveExtractor] - 5562: Fetching & Validating
+[ExtractorMaster]-pop: 5564-Video Conferencing
+[SlaveExtractor] - 5563: Fetching & Validating
+[ExtractorMaster]-pop: 5565-Video Game Consoles
+[SlaveExtractor] - 5564: Fetching & Validating
+[ExtractorMaster]-pop: 5566-Wall Plates & Sockets
+[SlaveExtractor] - 5565: Fetching & Validating
+[ExtractorMaster]-pop: 5567-Water Heaters
+[SlaveExtractor] - 5566: Fetching & Validating
+[ExtractorMaster]-pop: 5568-Water Softeners
+[SlaveExtractor] - 5567: Fetching & Validating
+[ExtractorMaster]-pop: 5569-Websites
+[SlaveExtractor] - 5568: Fetching & Validating
+[ExtractorMaster]-pop: 5570-Welding Equipment
+[SlaveExtractor] - 5569: Fetching & Validating
+[ExtractorMaster]-pop: 5571-Well Supplies
+[SlaveExtractor] - 5570: Fetching & Validating
+[ExtractorMaster]-pop: 5572-Wheelbarrows
+[SlaveExtractor] - 5571: Fetching & Validating
+[ExtractorMaster]-pop: 5573-World Globes
+[SlaveExtractor] - 5572: Fetching & Validating
+[ExtractorMaster]-pop: 5574-XBox (original) Games
+[SlaveExtractor] - 5573: Fetching & Validating
+[ExtractorMaster]-pop: 5575-iPhone Medical Apps
+[SlaveExtractor] - 5574: Fetching & Validating
+[ExtractorMaster]-pop: 5576-iPhone Music Apps
+[SlaveExtractor] - 5575: Fetching & Validating
+[ExtractorMaster]-pop: 5577-iPhone News Apps
+[SlaveExtractor] - 5576: Fetching & Validating
+[ExtractorMaster]-pop: 5578-iPhone Sports Apps
+[SlaveExtractor] - 5577: Fetching & Validating
+[SlaveExtractor] - 5578: Fetching & Validating
+[ExtractorMaster]-pop: 5579-Digital SLR Cameras
+[SlaveExtractor] - 5579: Fetching & Validating
+[ExtractorMaster]-pop: 5580-camera
+[SlaveExtractor] - 5580: Fetching & Validating
+[ExtractorMaster]-pop: 5581-iPods & MP3 Players Accessories
+[SlaveExtractor] - 5581: Fetching & Validating
+[ExtractorMaster]-pop: 5582-camera
+[SlaveExtractor] - 5582: Fetching & Validating
+[ExtractorMaster]-pop: 5583-monitor
+[SlaveExtractor] - 5583: Fetching & Validating
+[ExtractorMaster]-pop: 5584-| Apple Mobile
+[SlaveExtractor] - 5584: Fetching & Validating
+[ExtractorMaster]-pop: 5585-| Camera Lens
+[SlaveExtractor] - 5585: Fetching & Validating
+[ExtractorMaster]-pop: 5586-| Samsung Camera
+[SlaveExtractor] - 5586: Fetching & Validating
+[ExtractorMaster]-pop: 5587-| Samsung Laptop
+[ExtractorMaster]-pop: 5588-| Samsung Tablets
+[ExtractorMaster]-pop: 5589-| Sony Mobile
+[SlaveExtractor] - 5588: Fetching & Validating
+[SlaveExtractor] - 5587: Fetching & Validating
+[ExtractorMaster]-pop: 5590-Bose
+[SlaveExtractor] - 5589: Fetching & Validating
+[ExtractorMaster]-pop: 5591-Enceintes TV
+[SlaveExtractor] - 5590: Fetching & Validating
+[ExtractorMaster]-pop: 5592-Machine Ã  glaÃ§ons
+[SlaveExtractor] - 5591: Fetching & Validating
+[ExtractorMaster]-pop: 5593-Maison, Cuisine, Bien-être
+[ExtractorMaster]-pop: 5594-Men's Sunglasses
+[SlaveExtractor] - 5592: Fetching & Validating
+[ExtractorMaster]-pop: 5595-Audio Equipment
+[ExtractorMaster]-pop: 5596-BenQ Lamps
+[ExtractorMaster]-pop: 5597-Digital Signage
+[SlaveExtractor] - 5593: Fetching & Validating
+[ExtractorMaster]-pop: 5598-Displays and Digital Signage
+[ExtractorMaster]-pop: 5599-Interactive Touchscreen Displays
+[SlaveExtractor] - 5594: Fetching & Validating
+[SlaveExtractor] - 5595: Fetching & Validating
+[SlaveExtractor] - 5596: Fetching & Validating
+[SlaveExtractor] - 5597: Fetching & Validating
+[SlaveExtractor] - 5598: Fetching & Validating
+[ExtractorMaster]-pop: 5600-JVC Lamps
+[ExtractorMaster] - Poison_pill!!
+[ExtractorMaster] - Waiting for Slaves
+[SlaveExtractor] - 5600: Fetching & Validating
+[SlaveExtractor] - 5599: Fetching & Validating
+HTTP error fetching URL -> [http://www.flexshopper.com/bose-soundlink-mini-bluetooth-speaker-up-to-30-ft-wireless-range-silver-bundle-with-sl-mini-speaker-travel-bag-mini-bluetooth-speaker-soft-cover-blue-boseslmbsh-3590371300h-bos-ado]
+HTTP error fetching URL -> [http://www.focusedtechnology.com/chief-in-wall-boxes.html]
+HTTP error fetching URL -> [http://www.focusedtechnology.com/viewsonic-ep5502t.html]
+Xpath error evaluating expression -> ()
+HTTP error fetching URL -> [http://www.flexshopper.com/bose-soundlink-mini-bluetooth-speaker-upto-30-ft-wireless-range-silver-bundle-with-soundlink-mini-bluetooth-speaker-travel-bag-boseslmbsd-3590371300d-bos-ado]
+Xpath error evaluating expression -> ()
+HTTP error fetching URL -> [http://www.fnac.com/Systeme-Home-Cinema-Bose-CineMate-130-Noir/a7796075/w-4]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196824/category/91/]
+[SlaveExtractor] - 5414: Terminated
+[JsonWriter] - write 5414-Hairdryers
+Xpath error evaluating expression -> ()
+[SlaveExtractor] - 5408: Terminated
+[JsonWriter] - write 5408-Japanese Exclusives
+Xpath error evaluating expression -> ()
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/nikon-d3100-digital-camera-13284-nik-dah]
+[SlaveExtractor] - 5404: Terminated
+[JsonWriter] - write 5404-Portable Audio
+[SlaveExtractor] - 5411: Terminated
+[JsonWriter] - write 5411-Dental/Oral Care
+Xpath error evaluating expression -> ()
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196656/category/91/]
+[SlaveExtractor] - 5412: Terminated
+[JsonWriter] - write 5412-Fax Machines
+[SlaveExtractor] - 5597: Terminated
+[JsonWriter] - write 5597-Digital Signage
+Xpath error evaluating expression -> ()
+HTTP error fetching URL -> [http://www.flexshopper.com/ihome-bluetooth-stereo-fm-clock-radio-metallic-silver-191333]
+HTTP error fetching URL -> [http://www.focusedtechnology.com/inf6501a.html]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/nikon-d5200-digital-camera-af-s-vr-dx-18-55mm-lens-inkd5200bk-1511-nik-ado]
+[SlaveExtractor] - 5591: Terminated
+[JsonWriter] - write 5591-Enceintes TV
+Xpath error evaluating expression -> ()
+[SlaveExtractor] - 5599: Terminated
+[JsonWriter] - write 5599-Interactive Touchscreen Displays
+[SlaveExtractor] - 5598: Terminated
+[JsonWriter] - write 5598-Displays and Digital Signage
+[SlaveExtractor] - 5466: Terminated
+[JsonWriter] - write 5466-Facebook Health Apps
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196449/category/91/]
+[SlaveExtractor] - 5600: Terminated
+[JsonWriter] - write 5600-JVC Lamps
+[SlaveExtractor] - 5595: Terminated
+[JsonWriter] - write 5595-Audio Equipment
+[SlaveExtractor] - 5546: Terminated
+[JsonWriter] - write 5546-Sleep Masks
+[SlaveExtractor] - 5406: Terminated
+[JsonWriter] - write 5406-Television and Home Entertainment
+[SlaveExtractor] - 5596: Terminated
+[JsonWriter] - write 5596-BenQ Lamps
+[SlaveExtractor] - 5413: Terminated
+[JsonWriter] - write 5413-Hair Stylers, Curling Tongs & Straighteners
+HTTP error fetching URL -> [http://www.flexshopper.com/jbl-flip-portable-wireless-bluetooth-stereo-speaker-150hz-20khz-frequency-response-10w-output-power-5-hours-runtime-single-red-124086]
+HTTP error fetching URL -> [http://www.flexshopper.com/canon-eos-rebel-t5i-digital-camera-body-only-3500]
+[SlaveExtractor] - 5593: Terminated
+[JsonWriter] - write 5593-Maison, Cuisine, Bien-être
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/9/source/flexshopper]
+HTTP error fetching URL -> [http://www.flexshopper.com/jbl-flip-portable-wireless-bluetooth-stereo-speaker-150hz-20khz-frequency-response-10w-output-power-5-hours-runtime-single-green-124085]
+[SlaveExtractor] - 5409: Terminated
+[JsonWriter] - write 5409-Browse All Computing & Office
+HTTP error fetching URL -> [http://www.fishpond.com.au/Toys/CARDS-AGAINST-HUMANITY-Australian-Edition-CARDS-AGAINST-HUMANITY/9999694576566]
+[SlaveExtractor] - 5410: Terminated
+[JsonWriter] - write 5410-Browse All Garden & DIY
+[SlaveExtractor] - 5590: Terminated
+[JsonWriter] - write 5590-Bose
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196669/category/91/]
+[SlaveExtractor] - 5417: Terminated
+[JsonWriter] - write 5417-Washer Dryers
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196487/category/91/]
+[SlaveExtractor] - 5423: Terminated
+[JsonWriter] - write 5423-Toys
+[SlaveExtractor] - 5403: Terminated
+[JsonWriter] - write 5403-Modems
+[SlaveExtractor] - 5421: Terminated
+[JsonWriter] - write 5421-Bestsellers
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/nikon-d5300-24-1mp-dx-format-digital-slr-camera-with-af-s-dx-nikkor-18-55mm-f-3-5-5-6g-vr-ii-lens-red-bundle-with-slinger-100-holster-bag-16gb-class-10-sdhc-card-cleaning-kit-sd-card-reader-inkd5300rk1a-1523a-nik-ado]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/13/source/market-place]
+[SlaveExtractor] - 5592: Terminated
+[JsonWriter] - write 5592-Machine Ã  glaÃ§ons
+HTTP error fetching URL -> [http://www.flexshopper.com/nikon-d3200-digital-camera-af-s-dx-18-55mm-and-55-200mm-lenses-inkd3200k2-13313-nik-ado]
+[SlaveExtractor] - 5507: Terminated
+[JsonWriter] - write 5507-Mosaics
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196479/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/pentax-k-50-digital-camera-body-only-30972]
+HTTP error fetching URL -> [http://www.flexshopper.com/bose-soundlink-mini-bluetooth-speaker-upto-30-ft-wireless-range-silver-bundle-with-soundlink-mini-car-charger-boseslmbsc-3590371300c-bos-ado]
+[SlaveExtractor] - 5422: Terminated
+[JsonWriter] - write 5422-Lifestyle
+[SlaveExtractor] - 5581: Terminated
+HTTP error fetching URL -> [http://www.flexshopper.com/nikon-d3200-digital-slr-camera-with-18-55mm-nikkor-vr-lens-black-bundle-with-16gb-sd-memory-card-camera-bag-and-3-piece-filter-kit-uv-cpl-nd-inkd3200ka-25492a-nik-ado]
+[JsonWriter] - write 5581-iPods & MP3 Players Accessories
+[SlaveExtractor] - 5579: Terminated
+[JsonWriter] - write 5579-Digital SLR Cameras
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/197007/category/91/]
+[SlaveExtractor] - 5416: Terminated
+[JsonWriter] - write 5416-Projectors
+[SlaveExtractor] - 5419: Terminated
+[JsonWriter] - write 5419-Arts & Crafts
+[SlaveExtractor] - 5587: Terminated
+[JsonWriter] - write 5587-| Samsung Laptop
+[SlaveExtractor] - 5420: Terminated
+[JsonWriter] - write 5420-Baby
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/canon-eos-60d-digital-camera-ef-s-18-135mm-is-lens-ica60dk1-4460b004-can-ado]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196601/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/canon-eos-rebel-sl1-dslr-camera-with-ef-s-18-55mm-f-3-5-5-6-is-stm-lens-white-bundle-with-camera-bag-32gb-class-10-sdhc-card-spare-lp-e12-battery-new-leaf-3-year-drops-amp-spillswarranty-cleaning-kit-58mm-filter-kit-sd-card-case-aluminum-tab-icasl1wk1c-91]
+[SlaveExtractor] - 5415: Terminated
+[JsonWriter] - write 5415-Home Telephones
+[SlaveExtractor] - 5418: Terminated
+[JsonWriter] - write 5418-notebook
+[SlaveExtractor] - 5594: Terminated
+[JsonWriter] - write 5594-Men's Sunglasses
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/12/source/market-place]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/nikon-d5200-digital-camera-af-s-vr-dx-18-55mm-lens-inkd5200rk-1507-nik-ado]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/nikon-d610-digital-camera-af-s-24-85mm-vr-lens-inkd610k1-13305-nik-ado]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196450/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196486/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196826/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196623/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196637/category/91/]
+[SlaveExtractor] - 5583: Terminated
+[JsonWriter] - write 5583-monitor
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/6/source/market-place]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/15/source/flexshopper]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/sony-a-alpha-slt-a77vq-digital-camera-dt-16-50mm-lens-isoslta77k1-slta77vq-son-ado]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196588/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196491/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196586/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/197008/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/9/source/market-place]
+[SlaveExtractor] - 5426: Terminated
+[JsonWriter] - write 5426-Adirondack Chairs
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196671/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/197001/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/nikon-d3200-digital-slr-camera-with-18-55mm-nikkor-vr-lens-black-bundle-with-16gb-sd-memory-card-camera-holster-bag-pro-optic-52mm-filter-kit-spare-battery-aluminum-table-top-tripod-cleaning-kit-sd-card-case-inkd3200kb-25492kb-nik-ado]
+[SlaveExtractor] - 5477: Terminated
+[JsonWriter] - write 5477-Freeze-Dried Food
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196667/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/12/source/flexshopper]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196827/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/sony-alpha-a77ii-translucent-mirror-dslr-camera-with-sony-16-50mm-f-2-8-dt-zoom-lens-bundle-with-camera-holster-case-72mm-filter-kit-32gb-class-10-sdhc-card-cleaning-kit-isoa772kb-ilca77m2qb-son-ado]
+[SlaveExtractor] - 5584: Terminated
+[JsonWriter] - write 5584-| Apple Mobile
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196410/category/91/]
+[SlaveExtractor] - 5589: Terminated
+[JsonWriter] - write 5589-| Sony Mobile
+[SlaveExtractor] - 5585: Terminated
+[JsonWriter] - write 5585-| Camera Lens
+[SlaveExtractor] - 5586: Terminated
+[JsonWriter] - write 5586-| Samsung Camera
+[SlaveExtractor] - 5588: Terminated
+[JsonWriter] - write 5588-| Samsung Tablets
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196816/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/nikon-d3200-digital-camera-af-s-dx-18-55mm-and-55-200mm-lenses-inkd3200k2-13313-nik-ado]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196809/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196818/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/5/source/market-place]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196488/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/7/source/market-place]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/pentax-k-50-digital-camera-da-18-55mm-wr-and-50-200mm-wr-lenses-ipxk50b55200-10905-pen-ado]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196817/category/91/]
+HTTP error fetching URL -> [http://www.fixya.com/support/p2666721-blazing_spammer]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196499/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196672/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/canon-eos-rebel-t5-digital-camera-9126b003-can-dah]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/198597/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/6/source/flexshopper]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196482/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/16/source/market-place]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196458/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196820/category/91/]
+[SlaveExtractor] - 5451: Terminated
+[JsonWriter] - write 5451-Computer Utilities & Maintenance
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196658/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/nikon-d3200-digital-camera-af-s-vr-dx-18-55mm-lens-inkd3200k-25492-nik-ado]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196465/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/nikon-d5300-24-1mp-dx-format-dslr-camera-with-af-s-dx-18-55mm-f-3-5-5-6g-vr-ii-lens-grey-bundle-with-slinger-100-holster-bag-32gb-cl-10-sdhc-card-spare-battery-new-leaf-3-year-drops-amp-spills-warranty-sunpack-tripod-cleaning-kit-52mm-filter-inkd5300gk1c-]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/sony-alpha-a77ii-translucent-mirror-dslr-camera-with-sony-16-50mm-f-2-8-dt-zoom-lens-bundle-with-camera-holster-case-72mm-uv-filter-16gb-class-10-sdhc-card-cleaning-kit-isoa772ka-ilca77m2qa-son-ado]
+[SlaveExtractor] - 5480: Terminated
+[JsonWriter] - write 5480-Glass Crafts
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196471/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/nikon-d5300-24-1mp-dx-format-digital-slr-camera-with-af-s-dx-nikkor-18-55mm-f-3-5-5-6g-vr-ii-lens-grey-bundle-with-slinger-100-holster-bag-16gb-class-10-sdhc-card-cleaning-kit-sd-card-reader-inkd5300gk1a-1524a-nik-ado]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/nikon-d5300-24-1mp-dx-format-dslr-camera-with-af-s-dx-18-55mm-f-3-5-5-6g-vr-ii-lens-red-bundle-with-slinger-100-holster-bag-32gb-cl-10-sdhc-card-spare-battery-new-leaf-3-year-drops-amp-spills-warranty-sunpack-tripod-cleaning-kit-52mm-filter-k-inkd5300rk1c]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196489/category/91/]
+[SlaveExtractor] - 5463: Terminated
+[JsonWriter] - write 5463-Ecommerce
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/8/source/flexshopper]
+[SlaveExtractor] - 5562: Terminated
+[JsonWriter] - write 5562-Turbografx 16 Games
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196498/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196502/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196661/category/91/]
+[SlaveExtractor] - 5563: Terminated
+[JsonWriter] - write 5563-USB Drive Duplicators
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/canon-eos-rebel-t4i-digital-camera-ef-s-18-135mm-is-stm-lens-icat4ik2-6558b005-can-ado]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196407/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196651/category/91/]
+[SlaveExtractor] - 5531: Terminated
+[JsonWriter] - write 5531-Probes & Finders
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/197002/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/2/source/market-place]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196677/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196483/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196665/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/198630/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/nikon-d5200-digital-camera-body-only-inkd5200-1501-nik-ado]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/sony-slt-a99v-digital-slr-camera-body-full-frame-24-mp-14-bit-raw-output-full-1080p-hdmi-output-dual-af-system-black-isoslta99v-slta99v-son-ado]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196666/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/canon-eos-60d-digital-slr-camera-body-18-megapixel-bundle-with-sandisk-32gb-ultra-sdhc-card-lowepro-tlz-20-holster-case-spare-battery-pro-cleaning-kit-sd-card-case-card-reader-screen-protector-ica60db-4460b003b-can-ado]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196609/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/canon-eos-rebel-t3i-digital-camera-ef-s-18-135mm-is-lens-icat3ik2-5169b005-can-ado]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196806/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196441/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/13/source/flexshopper]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196819/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/nikon-d5300-digital-camera-af-s-vr-dx-18-55mm-lens-inkd5300rk1-1523-nik-ado]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196636/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196475/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196829/category/91/]
+[SlaveExtractor] - 5465: Terminated
+[JsonWriter] - write 5465-Electronic Dictionaries & Translators
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196598/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196490/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/nikon-d5300-24-1mp-dx-format-dslr-camera-with-af-s-dx-18-55mm-f-3-5-5-6g-vr-ii-lens-black-bundle-with-slinger-100-holster-bag-32gb-cl-10-sdhc-card-spare-battery-new-leaf-3-year-drops-amp-spills-warranty-tripod-cleaning-kit-52mm-filter-kit-sd-inkd5300bk1c-]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/pentax-k-50-digital-camera-da-18-55mm-wr-lens-ipxk50kww-09830-pen-ado]
+[SlaveExtractor] - 5508: Terminated
+[JsonWriter] - write 5508-Mosquito Nets
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196444/category/91/]
+[SlaveExtractor] - 5424: Terminated
+[JsonWriter] - write 5424-cutlery
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196648/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/pentax-k-3-premium-silver-edition-digital-camera-body-only-ipxk3p-15563-pen-ado]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196621/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/nikon-d5300-24-1-megapixel-dx-format-dslr-camera-with-nikon-afs-dx-18-140mm-lens-black-bundle-with-lowe-pro-bag-black-32-ultra-sdhc-cl10-card-new-leaf-3-year-spills-amp-drops-warranty-spare-enel14-battery-tripod-cleaning-kit-sd-card-reader-inkd5300bkc-133]
+[SlaveExtractor] - 5474: Terminated
+[JsonWriter] - write 5474-Food Peelers
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196668/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/16/source/flexshopper]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196664/category/91/]
+[SlaveExtractor] - 5401: Terminated
+[JsonWriter] - write 5401-Laptops / Notebooks
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196590/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196638/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/sony-alpha-a77ii-translucent-mirror-dslr-camera-with-sony-16-50mm-f-2-8-dt-zoom-lens-isoa772k-ilca77m2q-son-ado]
+[SlaveExtractor] - 5460: Terminated
+[JsonWriter] - write 5460-Dive Computers
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/2/source/flexshopper]
+[SlaveExtractor] - 5516: Terminated
+[JsonWriter] - write 5516-Nintendo Entertainment System Games
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196828/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196831/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196630/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196484/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196455/category/91/]
+[SlaveExtractor] - 5570: Terminated
+[JsonWriter] - write 5570-Welding Equipment
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/pentax-k-50-digital-camera-da-18-55mm-wr-lens-ipxk50kliw-09960-pen-ado]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/canon-eos-rebel-t5i-digital-camera-8595b005-can-dah]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196478/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196409/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196675/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/source/flexshopper]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196689/category/91/]
+[SlaveExtractor] - 5556: Terminated
+[JsonWriter] - write 5556-Tape Drives
+[SlaveExtractor] - 5503: Terminated
+[JsonWriter] - write 5503-Massage Tables
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/pentax-k-50-digital-camera-da-18-55mm-wr-lens-ipxk50kpkbk-09838-pen-ado]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196585/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196810/category/91/]
+[SlaveExtractor] - 5493: Terminated
+[JsonWriter] - write 5493-KVM Switches
+[SlaveExtractor] - 5552: Terminated
+[JsonWriter] - write 5552-Steamer Baskets
+[SlaveExtractor] - 5539: Terminated
+[JsonWriter] - write 5539-Roasting Pans
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196442/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/canon-eos-60d-digital-camera-4460b004-can-ing]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196596/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/sony-a77ii-alpha-77-mark-ii-translucent-mirror-dslr-digital-camera-bundle-with-16gb-class-10-sdhc-card-camera-holster-case-cleaning-kit-screen-protector-isoa772a-ilca77m2a-son-ado]
+[SlaveExtractor] - 5572: Terminated
+[JsonWriter] - write 5572-Wheelbarrows
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196649/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196830/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/pentax-k-50-digital-camera-da-18-55mm-wr-lens-ipxk50kpuw-09879-pen-ado]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196492/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/nikon-d3200-slr-camera-with-18-55mm-nikkor-vr-lens-black-bundle-with-32gb-sd-memory-card-camera-holster-bag-pro-optic-52mm-cpl-uv-filter-spare-battery-new-leaf-3-year-spills-amp-drops-warranty-tripod-cleaning-kit-sd-card-case-flashpoint-160-inkd3200kkc-25]
+[SlaveExtractor] - 5566: Terminated
+[JsonWriter] - write 5566-Wall Plates & Sockets
+[SlaveExtractor] - 5441: Terminated
+[JsonWriter] - write 5441-Bicycle Accessories
+[SlaveExtractor] - 5529: Terminated
+[JsonWriter] - write 5529-Power Enclosures
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/8]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/9]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/6]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/7]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/4]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196676/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/2]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/3]
+[SlaveExtractor] - 5437: Terminated
+[JsonWriter] - write 5437-Aquariums & Aquarium Stands
+[SlaveExtractor] - 5448: Terminated
+[JsonWriter] - write 5448-Chocolate Drinks
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196599/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/197673/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196584/category/91/]
+[SlaveExtractor] - 5551: Terminated
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196811/category/91/]
+[JsonWriter] - write 5551-Squash Equipment
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/nikon-d5200-digital-camera-af-s-dx-18-105mm-vr-lens-inkd5200k1-13216-nik-ado]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/3/source/flexshopper]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/pentax-k-50-digital-camera-da-18-55mm-wr-lens-ipxk50w1855-10939-pen-ado]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/5/source/flexshopper]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196496/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196678/category/91/]
+[SlaveExtractor] - 5461: Terminated
+[JsonWriter] - write 5461-Drains
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/canon-eos-rebel-t3i-digital-camera-ef-s-18-55mm-is-ii-lens-icat3ik-5169b003-can-ado]
+[SlaveExtractor] - 5557: Terminated
+[JsonWriter] - write 5557-Telephone Accessories
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/canon-eos-rebel-sl1-digital-camera-8575b003-can-dah]
+[SlaveExtractor] - 5582: Terminated
+[JsonWriter] - write 5582-camera
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196589/category/91/]
+[SlaveExtractor] - 5498: Terminated
+[JsonWriter] - write 5498-Living Room Tables
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/5]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/pentax-k-3-digital-camera-15541-pen-dah]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196481/category/91/]
+[SlaveExtractor] - 5509: Terminated
+[JsonWriter] - write 5509-Mouthguards
+[SlaveExtractor] - 5528: Terminated
+[JsonWriter] - write 5528-Poker & Game Tables
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/canon-eos-70d-digital-camera-8469b009-can-ing]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/4/source/flexshopper]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196833/category/91/]
+[SlaveExtractor] - 5575: Terminated
+[JsonWriter] - write 5575-iPhone Medical Apps
+[SlaveExtractor] - 5427: Terminated
+[JsonWriter] - write 5427-Air Drills & Drill/Drivers
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/pentax-k-5-iis-digital-camera-body-only-12050-pen-dah]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196443/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/pentax-k-500-digital-camera-da-l-18-55mm-al-lens-15507-pen-ing]
+[SlaveExtractor] - 5499: Terminated
+[JsonWriter] - write 5499-Lunch Boxes & Totes
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/nikon-d7000-digital-camera-af-s-dx-18-200mm-vr-lens-inkd7000k3-13019-nik-ado]
+[SlaveExtractor] - 5495: Terminated
+[JsonWriter] - write 5495-Ladder Golf
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196448/category/91/]
+[SlaveExtractor] - 5464: Terminated
+[JsonWriter] - write 5464-Electric Knives
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196597/category/91/]
+[SlaveExtractor] - 5504: Terminated
+[JsonWriter] - write 5504-Media Converters
+[SlaveExtractor] - 5476: Terminated
+[JsonWriter] - write 5476-Football Training Equipment
+[SlaveExtractor] - 5515: Terminated
+[JsonWriter] - write 5515-Network Security & Firewall Devices
+[SlaveExtractor] - 5525: Terminated
+[JsonWriter] - write 5525-Pipe Locators
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/nikon-d610-digital-camera-body-only-inkd610-1540-nik-ado]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/11/source/flexshopper]
+[SlaveExtractor] - 5501: Terminated
+[JsonWriter] - write 5501-Mac Desktops
+[SlaveExtractor] - 5522: Terminated
+[JsonWriter] - write 5522-Pedometers
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/14/source/market-place]
+[SlaveExtractor] - 5494: Terminated
+[JsonWriter] - write 5494-Kitchen Knives
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/7/source/flexshopper]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196815/category/91/]
+[SlaveExtractor] - 5434: Terminated
+[JsonWriter] - write 5434-Android Transportation Apps
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/14/source/flexshopper]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196673/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/canon-eos-60d-digital-camera-ef-s-18-200mm-is-lens-ica60dk2-4460b016-can-ado]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/sigma-sd1-merrill-digital-camera-body-only-sgsd1m-c26900-sig-ado]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/sony-a77ii-alpha-77-mark-ii-translucent-mirror-dslr-digital-camera-bundle-with-32gb-class-10-sdhc-card-slinger-camera-case-spare-battery-cleaning-kit-screen-protector-card-reader-table-top-tripod-isoa772b-ilca77m2b-son-ado]
+[SlaveExtractor] - 5519: Terminated
+[JsonWriter] - write 5519-Outdoor Benches
+[SlaveExtractor] - 5505: Terminated
+[JsonWriter] - write 5505-Medical Apparel
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196459/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/14]
+[SlaveExtractor] - 5540: Terminated
+[JsonWriter] - write 5540-Seasonal & Holiday Decorations
+[SlaveExtractor] - 5449: Terminated
+[JsonWriter] - write 5449-Coat & Hat Racks
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/15]
+[SlaveExtractor] - 5514: Terminated
+[JsonWriter] - write 5514-Netbooks
+[SlaveExtractor] - 5558: Terminated
+[JsonWriter] - write 5558-Thermoses
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/16]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/pentax-k-50-digital-camera-da-18-135mm-wr-lens-ipxk50w18135-10961-pen-ado]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/10]
+[SlaveExtractor] - 5569: Terminated
+[JsonWriter] - write 5569-Websites
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/canon-eos-60d-digital-slr-camera-body-18-megapixel-bundle-with-sandisk-16gb-ultra-sdhc-card-lowepro-tlz-20-holster-case-pro-cleaning-kit-sd-card-case-ica60dka-4460b003a-can-ado]
+[SlaveExtractor] - 5442: Terminated
+[JsonWriter] - write 5442-Bicycle Gear
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/12]
+[SlaveExtractor] - 5456: Terminated
+[JsonWriter] - write 5456-DVD & Blu-ray Recorders
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/13]
+[SlaveExtractor] - 5506: Terminated
+[JsonWriter] - write 5506-Megaphones
+[SlaveExtractor] - 5438: Terminated
+[JsonWriter] - write 5438-Art Easels
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/sony-alpha-dslr-slt-a58-digital-slr-camera-with-18-55-lens-20-1-megapixel-1080p-60i-24p-full-hd-video-2-7quot-tiltable-screen-isoslta58k-slta58k-son-ado]
+[SlaveExtractor] - 5432: Terminated
+[JsonWriter] - write 5432-Android Finance Apps
+[SlaveExtractor] - 5565: Terminated
+[JsonWriter] - write 5565-Video Game Consoles
+[SlaveExtractor] - 5440: Terminated
+[JsonWriter] - write 5440-Belay & Rappel Devices
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/8/source/market-place]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/pentax-k-500-digital-camera-da-l-18-55mm-and-50-200mm-lenses-15517-pen-ing]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/10/source/flexshopper]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196670/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196587/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/11]
+[SlaveExtractor] - 5527: Terminated
+[JsonWriter] - write 5527-Plasma Cutters
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/canon-eos-60d-digital-camera-body-only-ica60d-4460b003-can-ado]
+[SlaveExtractor] - 5485: Terminated
+[JsonWriter] - write 5485-Hard Drive Accessories
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/pentax-k-50-digital-camera-body-only-10883-pen-dah]
+[SlaveExtractor] - 5490: Terminated
+[JsonWriter] - write 5490-Hydration Packs & Bags
+[SlaveExtractor] - 5482: Terminated
+[JsonWriter] - write 5482-Grains, Rice & Cereals
+[SlaveExtractor] - 5468: Terminated
+[SlaveExtractor] - 5533: Terminated
+[JsonWriter] - write 5468-Facebook Utilities Apps
+[JsonWriter] - write 5533-Racquet Stringing Machines
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196814/category/91/]
+[SlaveExtractor] - 5458: Terminated
+[JsonWriter] - write 5458-Diet Pills
+[SlaveExtractor] - 5446: Terminated
+[JsonWriter] - write 5446-Cassette Adapters
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/nikon-d5200-digital-camera-af-s-vr-dx-18-55mm-lens-inkd5200k-1503-nik-ado]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196611/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/4/source/market-place]
+[SlaveExtractor] - 5469: Terminated
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/3/source/market-place]
+[SlaveExtractor] - 5457: Terminated
+[JsonWriter] - write 5469-Fire Extinguishers
+[JsonWriter] - write 5457-Dental Hygiene
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196679/category/91/]
+[SlaveExtractor] - 5538: Terminated
+[JsonWriter] - write 5538-Remote Deposit
+[SlaveExtractor] - 5486: Terminated
+[JsonWriter] - write 5486-Hardhats
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/canon-eos-rebel-t5i-digital-camera-8595b003-can-ing]
+[SlaveExtractor] - 5439: Terminated
+[JsonWriter] - write 5439-Audio Cards
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/pentax-k-5-iis-digital-camera-body-only-ipxk52s-12050-pen-ado]
+[SlaveExtractor] - 5435: Terminated
+[JsonWriter] - write 5435-Answering Machines
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/sony-a77ii-alpha-77-mark-ii-translucent-mirror-dslr-digital-camera-bundle-with-32gb-class-10-sdhc-card-slinger-camera-case-spare-battery-new-leaf-3-year-drops-amp-spills-warranty-cleaning-kit-screen-protector-card-reader-table-top-tripod-isoa772c-ilca77m2]
+[SlaveExtractor] - 5487: Terminated
+[JsonWriter] - write 5487-Heaters
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/canon-eos-rebel-sl1-dslr-camera-with-ef-s-18-55mm-f-3-5-5-6-is-stm-lens-white-bundle-with-holster-camera-case-16gb-class-10-sdhc-card-cleaning-kit-58mm-uv-filter-icasl1wk1a-9123b002a-can-ado]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196583/category/91/]
+[SlaveExtractor] - 5511: Terminated
+[JsonWriter] - write 5511-Mutual Funds
+[SlaveExtractor] - 5462: Terminated
+[JsonWriter] - write 5462-Drill Presses
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/nikon-d5300-dx-format-dslr-camera-black-with-nikon-afs-dx-18-140mm-f-3-5-5-6g-ed-vr-lens-bundle-with-slinger-holster-case-black-16gb-ultra-sdhc-cl10-card-cleaning-kit-inkd5300bka-13303a-nik-ado]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/197006/category/91/]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/pentax-k-50-digital-camera-da-18-55mm-wr-lens-ipxk50kbky-09828-pen-ado]
+[SlaveExtractor] - 5428: Terminated
+[JsonWriter] - write 5428-Allergies & Sinus
+[SlaveExtractor] - 5443: Terminated
+[JsonWriter] - write 5443-Bullet Proof Vests
+[SlaveExtractor] - 5454: Terminated
+[SlaveExtractor] - 5481: Terminated
+[JsonWriter] - write 5454-Cross-Country Skiing
+[JsonWriter] - write 5481-Golf Training Aids
+[SlaveExtractor] - 5524: Terminated
+[JsonWriter] - write 5524-Pipe Cutters
+[SlaveExtractor] - 5455: Terminated
+[JsonWriter] - write 5455-DVD & Blu-Ray Players
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196832/category/91/]
+[SlaveExtractor] - 5576: Terminated
+[JsonWriter] - write 5576-iPhone Music Apps
+[SlaveExtractor] - 5500: Terminated
+[JsonWriter] - write 5500-MP3 Player Accessories
+[SlaveExtractor] - 5544: Terminated
+[JsonWriter] - write 5544-Semiconductors
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/11/source/market-place]
+[SlaveExtractor] - 5532: Terminated
+[JsonWriter] - write 5532-Projection Screens
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196612/category/91/]
+[SlaveExtractor] - 5459: Terminated
+[JsonWriter] - write 5459-Display Boards
+[SlaveExtractor] - 5574: Terminated
+[JsonWriter] - write 5574-XBox (original) Games
+[SlaveExtractor] - 5447: Terminated
+[JsonWriter] - write 5447-Cat Toys
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196466/category/91/]
+[SlaveExtractor] - 5491: Terminated
+[JsonWriter] - write 5491-Industrial Cabinets & Shelving
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/sony-alpha-dslr-slt-a77-digital-camera-with-sony-16-50mm-f-2-8-dt-zoom-lens-bundle-with-16gb-sd-memory-card-camera-bag-cleaning-kit-isoslta77k1a-slta77vqa-son-ado]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/nikon-d5300-24-1mp-dx-format-digital-slr-camera-with-af-s-dx-nikkor-18-55mm-f-3-5-5-6g-vr-ii-lens-black-bundle-with-slinger-100-holster-bag-16gb-class-10-sdhc-card-cleaning-kit-sd-card-reader-inkd5300bk1a-1522a-nik-ado]
+[SlaveExtractor] - 5425: Terminated
+[JsonWriter] - write 5425-Abdominal Equipment
+[SlaveExtractor] - 5571: Terminated
+[SlaveExtractor] - 5472: Terminated
+[JsonWriter] - write 5571-Well Supplies
+[JsonWriter] - write 5472-Floral Design
+[SlaveExtractor] - 5523: Terminated
+[JsonWriter] - write 5523-Photo Albums & Storage
+[SlaveExtractor] - 5471: Terminated
+[JsonWriter] - write 5471-Fishing Rods & Reels
+[SlaveExtractor] - 5492: Terminated
+[JsonWriter] - write 5492-Juicers
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/canon-eos-rebel-sl1-digital-camera-8575b001-can-ing]
+[SlaveExtractor] - 5433: Terminated
+[JsonWriter] - write 5433-Android Tools Apps
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/15/source/market-place]
+[SlaveExtractor] - 5452: Terminated
+[JsonWriter] - write 5452-Condiment Dispensers
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/sony-a77-ii-alpha-77-ii-ilca-77m2q-digital-camera-ilca77m2q-son-dah]
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/page/10/source/market-place]
+[SlaveExtractor] - 5450: Terminated
+[SlaveExtractor] - 5542: Terminated
+[JsonWriter] - write 5450-Computer Storage Cables
+[JsonWriter] - write 5542-Security System Sensors
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/source/market-place]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196663/category/91/]
+[SlaveExtractor] - 5555: Terminated
+[JsonWriter] - write 5555-Swimming Pools
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196823/category/91/]
+[SlaveExtractor] - 5554: Terminated
+[JsonWriter] - write 5554-Storage Hooks & Racks
+[SlaveExtractor] - 5545: Terminated
+[JsonWriter] - write 5545-Shavers
+[SlaveExtractor] - 5553: Terminated
+[JsonWriter] - write 5553-Stenciling, Die Cutting & Embossing
+[SlaveExtractor] - 5479: Terminated
+[JsonWriter] - write 5479-Gauges
+[SlaveExtractor] - 5535: Terminated
+[JsonWriter] - write 5535-Recliners
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/sony-a77ii-alpha-77-mark-ii-translucent-mirror-dslr-digital-camera-24-3mp-12fps-oled-electronic-viewfinder-full-hd-movie-with-avchd-79-point-auto-focus-isoa772-ilca77m2-son-ado]
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196808/category/91/]
+[SlaveExtractor] - 5541: Terminated
+[JsonWriter] - write 5541-Security Lights
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/pentax-k-50-digital-camera-da-18-55mm-wr-lens-ipxk50kgyw-09871-pen-ado]
+[SlaveExtractor] - 5548: Terminated
+[JsonWriter] - write 5548-Specialty Kitchen Appliances
+[SlaveExtractor] - 5561: Terminated
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196613/category/91/]
+[SlaveExtractor] - 5431: Terminated
+[JsonWriter] - write 5561-Tracking Devices
+[JsonWriter] - write 5431-Android Casual Games Apps
+[SlaveExtractor] - 5488: Terminated
+[JsonWriter] - write 5488-Home Automation
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/pentax-k-50-digial-slr-camera-with-da-18-135-wr-lens-black-bundle-with-pentax-af-200fg-dedicated-shoe-mount-flash-16gb-class-10-sdhc-card-photo-bag-tiffen-dfx-essentials-digital-filter-software-ipxk50b1813c-10916c-pen-ado]
+[SlaveExtractor] - 5526: Terminated
+[JsonWriter] - write 5526-Pipes, Fittings & Valves
+HTTP error fetching URL -> [http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras/canon-eos-6d-digital-camera-8035b009-can-ing]
+[SlaveExtractor] - 5518: Terminated
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196917/category/91/]
+[JsonWriter] - write 5518-Other Network Devices
+HTTP error fetching URL -> [http://www.flexshopper.com/catalog/product/view/id/196406/category/91/]
+[SlaveExtractor] - 5534: Terminated
+[JsonWriter] - write 5534-Rebar Locators
+[SlaveExtractor] - 5580: Terminated
+[JsonWriter] - write 5580-camera
+[SlaveExtractor] - 5578: Terminated
+[JsonWriter] - write 5578-iPhone Sports Apps
+[SlaveExtractor] - 5513: Terminated
+[JsonWriter] - write 5513-Neckties
+[SlaveExtractor] - 5436: Terminated
+[JsonWriter] - write 5436-Antennas
+[SlaveExtractor] - 5547: Terminated
+[JsonWriter] - write 5547-Small Animal Habitats & Cages
+[SlaveExtractor] - 5573: Terminated
+[JsonWriter] - write 5573-World Globes
+[SlaveExtractor] - 5484: Terminated
+[JsonWriter] - write 5484-Grills & Smokers
+[SlaveExtractor] - 5510: Terminated
+[JsonWriter] - write 5510-Multitrack Recorders
+[SlaveExtractor] - 5577: Terminated
+[JsonWriter] - write 5577-iPhone News Apps
+[SlaveExtractor] - 5430: Terminated
+[JsonWriter] - write 5430-Android Cards & Casino Games Apps
+[SlaveExtractor] - 5473: Terminated
+[JsonWriter] - write 5473-Folding Fans
+[SlaveExtractor] - 5467: Terminated
+[JsonWriter] - write 5467-Facebook Media Sharing Apps
+[SlaveExtractor] - 5502: Terminated
+[JsonWriter] - write 5502-Magic & Novelties
+[SlaveExtractor] - 5517: Terminated
+[JsonWriter] - write 5517-Nintendo Wii Games
+[SlaveExtractor] - 5496: Terminated
+[JsonWriter] - write 5496-Light Switches & Dimmers
+[SlaveExtractor] - 5478: Terminated
+[JsonWriter] - write 5478-Game Boy Color Games
+[SlaveExtractor] - 5520: Terminated
+[JsonWriter] - write 5520-Outdoor Tables
+[SlaveExtractor] - 5530: Terminated
+[JsonWriter] - write 5530-Prepared Foods
+[SlaveExtractor] - 5475: Terminated
+[JsonWriter] - write 5475-Food Slicers
+[SlaveExtractor] - 5497: Terminated
+[JsonWriter] - write 5497-Line of Credit
+[SlaveExtractor] - 5521: Terminated
+[JsonWriter] - write 5521-Pagers
+[SlaveExtractor] - 5568: Terminated
+[JsonWriter] - write 5568-Water Softeners
+[SlaveExtractor] - 5445: Terminated
+[JsonWriter] - write 5445-Can Openers
+[SlaveExtractor] - 5537: Terminated
+[JsonWriter] - write 5537-Remote Access Servers
+[SlaveExtractor] - 5543: Terminated
+[JsonWriter] - write 5543-Seeds
+[SlaveExtractor] - 5429: Terminated
+[JsonWriter] - write 5429-Android Brain & Puzzle Games Apps
+[SlaveExtractor] - 5560: Terminated
+[JsonWriter] - write 5560-Track Spikes
+[SlaveExtractor] - 5549: Terminated
+[JsonWriter] - write 5549-Specialty Pots & Pans
+[SlaveExtractor] - 5512: Terminated
+[SlaveExtractor] - 5559: Terminated
+[JsonWriter] - write 5512-Nebulizers & Supplies
+[JsonWriter] - write 5559-Thermostats
+[SlaveExtractor] - 5536: Terminated
+[JsonWriter] - write 5536-Recycling & Waste Containers
+[SlaveExtractor] - 5444: Terminated
+[JsonWriter] - write 5444-Calculators
+[SlaveExtractor] - 5564: Terminated
+[JsonWriter] - write 5564-Video Conferencing
+[SlaveExtractor] - 5483: Terminated
+[JsonWriter] - write 5483-Greenhouses
+[SlaveExtractor] - 5567: Terminated
+[JsonWriter] - write 5567-Water Heaters
+[SlaveExtractor] - 5550: Terminated
+[JsonWriter] - write 5550-Spotting Scopes
+[SlaveExtractor] - 5470: Terminated
+[JsonWriter] - write 5470-Fish Food
+[SlaveExtractor] - 5453: Terminated
+[JsonWriter] - write 5453-Crock Pots & Slow Cookers
+[SlaveExtractor] - 5489: Terminated
+[JsonWriter] - write 5489-Horse Grooming
+[SlaveExtractor] - 5405: Terminated
+[JsonWriter] - write 5405-Racks and Components
+[SlaveExtractor] - 5407: Terminated
+[JsonWriter] - write 5407-Wireless Access Points
+[SlaveExtractor] - 5402: Terminated
+[ExtractorMaster] - Killing Writer
+[ExtractorMaster] - Teminated
+[JsonWriter] - write 5402-Managed Switches
+[JsonWriter] - Terminated
+Total Links Scraped: 3228
